@@ -1,0 +1,19 @@
+.header{
+	background-color: grey;
+	width: 100%;
+	height: 200px;
+	
+}
+.middlePart{
+	margin-top: 50px;
+}
+
+#title{
+	width:100%;
+}
+
+.imageList{
+	width:  100%;
+	height: 70%;
+	margin-top:10px;
+}
